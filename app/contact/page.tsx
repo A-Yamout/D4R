@@ -1,5 +1,5 @@
 "use client";
-import { Github, Mail, Instagram } from "lucide-react";
+import { Phone, Mail, Instagram } from "lucide-react";
 import Link from "next/link";
 import { Navigation } from "../components/nav";
 import { Card } from "../components/card";
@@ -7,9 +7,9 @@ import { Card } from "../components/card";
 const socials = [
 	{
 		icon: <Instagram size={20} />,
-		href: "https://instagram.com/Dignity4Refugees",
+		href: "https://instagram.com/Dignity_4_Refugees",
 		label: "Instagram",
-		handle: "@Dignity4Refugees",
+		handle: "@Dignity_4_Refugees",
 	},
 	{
 		icon: <Mail size={20} />,
@@ -18,10 +18,10 @@ const socials = [
 		handle: "Contact",
 	},
 	{
-		icon: <Github size={20} />,
-		href: "https://github.com/D4R",
-		label: "Github",
-		handle: "D4R",
+		icon: <Phone size={20} />,
+		href: "tel:+16502482562",
+		label: "Text & Call",
+		handle: "+1 (650) 248-2562",
 	},
 ];
 

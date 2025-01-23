@@ -6,21 +6,21 @@ import { Analytics } from "./components/analytics";
 
 export const metadata: Metadata = {
   title: {
-    default: "chronark.com",
-    template: "%s | chronark.com",
+    default: "Dignity 4 Refugees",
+    template: "%s | Dignity 4 Refugees",
   },
-  description: "Co-founder of unkey.dev and founder of planetfall.io",
+  description: "A on profit for restoring dignity to Refugees",
   openGraph: {
-    title: "chronark.com",
+    title: "Dignity 4 Refugees",
     description:
       "Co-founder of unkey.dev and founder of planetfall.io",
-    url: "https://chronark.com",
-    siteName: "chronark.com",
+    url: "https://Dignity4Refugees.org",
+    siteName: "Dignity 4 Refugees",
     images: [
       {
-        url: "https://chronark.com/og.png",
-        width: 1920,
-        height: 1080,
+        url: "https://dignity4refugees.org/og.png",
+        width: 2000,
+        height: 2000,
       },
     ],
     locale: "en-US",
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
     },
   },
   twitter: {
-    title: "Chronark",
+    title: "Dignity 4 Refugees",
     card: "summary_large_image",
   },
   icons: {

@@ -11,8 +11,8 @@ module.exports = {
 	theme: {
 		extend: {
 			colors: {
-				'bluefirst': "#1034A2",
-				'bluesecond': "#7095EC",
+				'bluefirst': "#16498b",
+				'bluesecond': "#16498b",
 			},
 			typography: {
 				DEFAULT: {
